@@ -1,0 +1,47 @@
+[~/workplace/GoSync] tree
+.
+├── LICENSE
+├── README.md
+├── destination
+│   └── source
+│       ├── small
+│       │   └── dir
+│       │       ├── file1
+│       │       ├── file2
+│       │       ├── file3
+│       │       └── subdir
+│       │           ├── subfile1
+│       │           └── subfile2
+│       └── this
+│           └── is
+│               └── a
+│                   └── long
+│                       ├── directory
+│                       │   ├── fileA
+│                       │   ├── fileB
+│                       │   └── fileC
+│                       └── empty
+│                           └── director
+├── packageInfo
+├── source
+│   ├── small
+│   │   └── dir
+│   │       ├── file1
+│   │       ├── file2
+│   │       ├── file3
+│   │       └── subdir
+│   │           ├── subfile1
+│   │           └── subfile2
+│   └── this
+│       └── is
+│           └── a
+│               └── long
+│                   ├── directory
+│                   │   ├── fileA
+│                   │   ├── fileB
+│                   │   └── fileC
+│                   └── empty
+│                       └── director
+└── sync.go
+
+23 directories, 20 files
